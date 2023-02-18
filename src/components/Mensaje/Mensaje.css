@@ -1,0 +1,14 @@
+
+.message_text{
+    font-size:40px;
+    font-weight: 600;
+    color: black;
+}
+
+.message_text.lorem{
+    font-size: 15px;
+    font-weight: 300;
+    color: #5f5d5d;
+    width:500px;
+    margin: 0 auto;
+}

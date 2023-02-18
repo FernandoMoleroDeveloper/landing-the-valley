@@ -1,0 +1,22 @@
+.link{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+.link_nav{
+    color: #c3167c;
+    font-weight: 700;
+    margin:0 20px 0 20px;
+    text-decoration:none;
+}
+
+.link_nav.btn{
+    color: #fff;
+    font-weight: 700;
+    margin:0 15px 0 15px;
+    padding: 10px 10px 0px 10px;
+    background-color: #c3167c;
+    border-radius: 10px;
+    text-decoration: none;
+}
